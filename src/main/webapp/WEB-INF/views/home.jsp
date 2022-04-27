@@ -14,5 +14,6 @@
 <P>  The time on the server is ${serverTime}. </P>
 <p> 커밋 연습 </p>
 <p> 브랜치 연습 </p>
+<p> 커밋2 </p>
 </body>
 </html>
